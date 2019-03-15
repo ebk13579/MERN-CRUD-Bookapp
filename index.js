@@ -10,6 +10,6 @@ app.use(bodyParser.urlencoded({'extended':'false'}));
 
 require('./routes/books')(app)
 require('./routes/auth')(app)
-mongoose.connect('mongodb://localhost:27017/my-books', {useNewUrlParser: true});
+mongoose.connect('mongodb://localhost:27017/mern-secure', {useNewUrlParser: true});
 
 app.listen(5000);
