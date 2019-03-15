@@ -1,9 +1,6 @@
 # MERN-CRUD-Bookapp
 
-MERN Stack Book Application, 
-
-## Video Demo
-Youtube: [Link](https://www.youtube.com/watch?v=uebfFGRMg70)
+MERN Stack Book Application
 
 ## Install Instructions
 ### Prerequisites
